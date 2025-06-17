@@ -1,0 +1,585 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 18:41:14 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 20308@Gaizka
+
+[2025-06-03 18:41:15 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 18:41:15 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 18:41:15 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 18:41:15 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 18:41:15 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 18:41:15 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 18:41:15 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 18:41:15 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 18:41:15 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 18:41:15 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 18:41:15 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 18:41:15 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 18:41:15 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 18:41:15 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 18:41:15 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 18:41:15 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 18:41:15 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 18:41:15 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 18:41:15 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 18:41:15 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 18:43:49 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 6164@Gaizka
+
+[2025-06-03 18:43:50 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 18:43:50 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 18:43:50 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 18:43:50 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 18:43:50 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 18:43:50 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 18:43:50 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 18:43:50 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 18:43:50 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 18:43:50 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 18:43:50 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 18:43:50 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 18:43:50 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 18:43:50 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 18:43:50 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 18:43:50 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 18:43:50 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 18:43:50 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 18:43:50 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 18:43:50 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 18:44:22 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 20028@Gaizka
+
+[2025-06-03 18:44:22 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 18:44:22 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 18:44:22 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 18:44:22 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 18:44:22 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 18:44:22 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 18:44:22 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 18:44:22 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 18:44:22 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 18:44:22 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 18:44:22 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 18:44:22 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 18:44:22 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 18:44:22 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 18:44:22 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 18:44:22 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 18:44:22 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 18:44:22 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 18:44:22 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 18:44:22 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 18:45:26 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 8728@Gaizka
+
+[2025-06-03 18:45:26 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 18:45:26 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 18:45:26 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 18:45:26 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 18:45:26 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 18:45:26 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 18:45:26 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 18:45:26 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 18:45:26 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 18:45:26 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 18:45:26 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 18:45:26 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 18:45:26 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 18:45:26 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 18:45:26 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 18:45:26 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 18:45:26 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 18:45:26 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 18:45:26 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 18:45:26 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 18:49:22 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 13892@Gaizka
+
+[2025-06-03 18:49:22 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 18:49:22 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 18:49:22 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 18:49:22 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 18:49:22 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 18:49:22 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 18:49:22 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 18:49:22 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 18:49:22 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 18:49:22 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 18:49:22 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 18:49:22 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 18:49:22 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 18:49:22 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 18:49:22 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 18:49:22 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 18:49:22 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 18:49:23 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 18:49:23 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 18:49:23 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 19:34:52 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 20324@Gaizka
+
+[2025-06-03 19:34:53 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 19:34:53 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 19:34:53 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 19:34:53 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 19:34:53 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 19:34:53 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 19:34:53 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 19:34:53 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 19:34:53 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 19:34:53 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 19:34:53 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 19:34:53 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 19:34:53 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 19:34:53 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 19:34:53 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 19:34:53 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 19:34:53 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 19:34:53 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 19:34:53 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 19:34:53 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 19:35:21 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 10616@Gaizka
+
+[2025-06-03 19:35:22 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 19:35:22 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 19:35:22 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 19:35:22 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 19:35:22 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 19:35:22 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 19:35:22 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 19:35:22 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 19:35:22 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 19:35:22 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 19:35:22 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 19:35:22 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 19:35:22 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 19:35:22 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 19:35:22 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 19:35:22 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 19:35:22 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 19:35:22 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 19:35:22 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 19:35:22 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 20:00:37 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 18516@Gaizka
+
+[2025-06-03 20:00:38 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 20:00:38 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 20:00:38 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 20:00:38 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 20:00:38 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 20:00:38 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 20:00:38 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 20:00:38 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 20:00:38 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 20:00:38 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 20:00:38 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 20:00:38 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 20:00:38 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 20:00:38 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 20:00:38 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 20:00:38 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 20:00:38 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 20:00:38 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 20:00:38 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 20:00:38 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-03 20:02:59 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 19692@Gaizka
+
+[2025-06-03 20:03:00 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-03 20:03:00 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-03 20:03:00 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-03 20:03:00 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-03 20:03:00 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-03 20:03:00 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-03 20:03:00 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-03 20:03:00 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-03 20:03:00 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-03 20:03:00 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-03 20:03:00 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-03 20:03:00 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-03 20:03:00 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-03 20:03:00 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-03 20:03:00 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-03 20:03:00 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-03 20:03:00 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-03 20:03:00 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-03 20:03:00 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-03 20:03:00 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+

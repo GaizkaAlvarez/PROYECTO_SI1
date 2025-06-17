@@ -1,0 +1,117 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-01 16:32:04 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 2056@Gaizka
+
+[2025-06-01 16:32:04 #2 type.registry] 
+New type domain.Sala
+
+[2025-06-01 16:32:04 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-01 16:32:04 #4 type.registry] 
+New type domain.Sesion
+
+[2025-06-01 16:32:04 #5 type.registry] 
+New type java.util.LinkedList<domain.Sesion>
+
+[2025-06-01 16:32:04 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-01 16:32:04 #7 type.registry] 
+New type domain.Reserva
+
+[2025-06-01 16:32:04 #8 type.registry] 
+New type domain.Socio
+
+[2025-06-01 16:32:04 #9 type.registry] 
+New type domain.Actividad
+
+[2025-06-01 16:32:04 #10 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-01 16:32:04 #11 type.registry] 
+New type domain.Factura
+
+[2025-06-01 16:32:04 #12 type.registry] 
+New type domain.Reserva$estadoReserva
+
+[2025-06-01 16:32:04 #13 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-01 16:32:04 #14 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-01 16:32:04 #15 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-01 16:32:04 #16 type.registry] 
+New type java.util.LinkedList<domain.Reserva>
+
+[2025-06-01 16:32:04 #17 type.registry] 
+New type domain.Factura$estadoFactura2
+
+[2025-06-01 16:32:04 #18 type.registry] 
+New type domain.Factura$estadoFactura1
+
+[2025-06-01 16:32:05 #19 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-06-01 16:32:05 #20 type.registry] 
+New type java.util.LinkedList<domain.Factura>
+
+[2025-06-01 16:32:05 #21 type.registry] 
+New type java.util.LinkedList<domain.Socio>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-01 16:32:26 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 1-7)
+
+[2025-06-01 16:32:26 #2 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 16720@Gaizka
+
+[2025-06-01 16:32:26 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-01 16:32:26 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-01 16:32:26 #5 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-01 16:32:26 #6 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-01 16:32:26 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-01 16:32:26 #8 type] 
+Type domain.Factura is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-01 16:36:46 #1 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 8-8)
+
+[2025-06-01 16:36:46 #2 store] 
+Database 'C:\Users\gaizk\Desktop\SI1\Workspace\Rides24-master.zip_expanded\Rides24-master\src\main\resources\rides.temp' is opened by 15780@Gaizka
+
+[2025-06-01 16:36:46 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-06-01 16:36:46 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-01 16:36:46 #5 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-01 16:36:46 #6 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-01 16:36:46 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-01 16:36:46 #8 type] 
+Type domain.Factura is not enhanced.
+
